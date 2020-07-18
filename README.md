@@ -3,5 +3,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ethericall-Studio&repo=beta-ethericall&show_icons=true&bg_color=181A1B&icon_color=870000&title_color=870000&text_color=ffffff&show-owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ethericall-Studio&repo=beta-ethericall&show_icons=true&bg_color=181A1B&icon_color=870000&title_color=870000&text_color=ffffff&show-owner=true" />
 </a>
